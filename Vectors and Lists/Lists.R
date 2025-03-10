@@ -9,7 +9,9 @@ list(list(list(1,2,3)))
 str(list1)   #To find out what types of elements a list contains, use the str() function.
 
 #List elements, like vector elements, can be named when you create them with the list() function
-list('Chicago' = 1, 'New York' = 2, 'Los Angeles' = 3)
+ h = list('Chicago' = 1, 'New York' = 2, 'Los Angeles' = 3)
+ h
+ 
 #space ww
 
 #You can create two types of vectors in R: atomic vectors and lists
