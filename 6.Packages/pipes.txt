@@ -1,0 +1,7 @@
+pipes : used for expressing a sequence multiple operation 
+used to call multiple function inside an one function 
+
+ex : 
+call up data(AND THEN)    AND THEN->giving command for next what to do
+group the data(AND THEN) 
+summarize the data using mean function 
