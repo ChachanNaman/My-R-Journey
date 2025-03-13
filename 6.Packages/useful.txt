@@ -1,0 +1,2 @@
+USEFUL PACKAGES : https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages
+TOPIC RELATED PACKAGES : https://cran.r-project.org/web/views/

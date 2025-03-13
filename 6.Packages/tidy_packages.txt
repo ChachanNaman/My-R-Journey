@@ -1,0 +1,10 @@
+four packages that are essential for workflow ->
+
+1. ggplot2 : to create different visual representation of database
+2. tidyr : to clean the data or make better to read 
+3. readr : to read a files (ex : read csv file)
+4. dplyr : to do common manipulations (ex : to select function picks variable based on name)
+5. tibble : works with data frames 
+6. purrr : works with functions and vectors
+7. stringr : make easier to work with strings
+8. forcats : solve problems related to vectors
