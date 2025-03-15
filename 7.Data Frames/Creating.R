@@ -15,4 +15,4 @@ glimpse(people)
 arrange(people, age)  #sort by age 
 
 #now mutate 
-
+mutate(people, new_age = age+10);
